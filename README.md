@@ -1,6 +1,6 @@
 # Moving_Charge
 
-Electromagnetic Field of Accelerated Charged Particle: Describe the change of the electromagnetic eld of a charged particle caused by its motions (uniform, accelerated, oscillating, or near the speed of light).
+Electromagnetic Field of Accelerated Charged Particle: Describe the change of the electromagnetic field of a charged particle caused by its motions (uniform, accelerated, oscillating, or near the speed of light).
 
 ## 1. Please refer to Moving_Charge.py and Moving_Charge.ipynb for source code
 
